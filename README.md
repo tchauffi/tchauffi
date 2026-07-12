@@ -3,13 +3,15 @@
 Senior ML Research Engineer at L'Oréal. I work on diffusion models, generative AI and efficient LLMs, with a focus on bridging research and production.
 
 Selected projects:
+
+- [ChessTransformer](https://github.com/tchauffi/ChessTransformer) — a chess engine using transformer architecture, rated ~2500 elo on Lichess
+- [nonet](https://github.com/tchauffi/nonet) — a discrete diffusion based sudoku solver
+- [LatentDraft](https://github.com/tchauffi/LatentDraft) - a AI-agent augmented Latex editor for paper/resume/slide redaction.
 - [rust-raytracer](https://github.com/tchauffi/rust-raytracer) (87 stars, 3 forks) — a raytracer built from scratch in Rust
-- [ChessTransformer](https://github.com/tchauffi/ChessTransformer) — a chess engine using transformer architecture, rated 2570 elo on Lichess
 - [diffusion-pytorch](https://github.com/tchauffi/diffusion-pytorch) — diffusion model experiments in PyTorch
 - [diffusionlm-from-scratch](https://github.com/tchauffi/diffusionlm-from-scratch) and [homemade-llm](https://github.com/tchauffi/homemade-llm) — building diffusion language models and LLMs from first principles
-- [nonet](https://github.com/tchauffi/nonet) — a discrete diffusion based sudoku solver
 
-Currently learning: discrete diffusion model, Rust
+Currently learning: discrete diffusion model, Rust, Agents
 
 Latest paper: [Locally Controlled Face Aging with Latent Diffusion Models](https://arxiv.org/abs/2507.21600)
 
